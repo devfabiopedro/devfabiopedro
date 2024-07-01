@@ -1,4 +1,6 @@
-<center><img src="https://static.vecteezy.com/system/resources/thumbnails/011/153/359/small/3d-website-developer-working-on-laptop-illustration-png.png" alt="Programador"></img></center>
+<div style="text-align: center;">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/011/153/359/small/3d-website-developer-working-on-laptop-illustration-png.png" alt="Programador"></img>
+</div>
 
 - 👋 Olá, Me chamo Fábio, aqui não é o meu repositório oficial, é apenas para testes e cursos.
 - 👀 Meu interesse é sempre em aprender mais e mais ...
